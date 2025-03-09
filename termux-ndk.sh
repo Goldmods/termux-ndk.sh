@@ -5,7 +5,7 @@ sdk_dir=$install_dir/android-sdk
 cmake_dir=$sdk_dir/cmake
 ndk_dir="$sdk_dir/ndk"
 ndk_file_name="android-ndk.tar.zst"
-ndk_url="https://github.com/codehasan/dex2c/releases/download/ollvm-termux/$ndk_file_name"
+ndk_url="https://github.com/codehasan/dex2c/releases/download/ollvm-termux/android-ndk-r25c-ollvm-aarch64.tar.xz"
 ndk_installed=false
 cmake_installed=false
 
